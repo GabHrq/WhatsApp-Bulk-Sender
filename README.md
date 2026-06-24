@@ -71,6 +71,8 @@ Create a .json file (default name example: data.json) with the following structu
 ```
 An example is already provided inside this repository, so you can use it as a basis. A phone number string **must** start with "55".
 
+Edit **script.py** and replace the constants "__BASE_URL__" and "__API_KEY__" string values with the respective Evolution API URL and key defined by your server.
+
 ### 6. Usage
 Run the script:
 ```bash
@@ -149,6 +151,8 @@ Crie um arquivo .json (exemplo de nome padrão: "data.json") com a seguinte estr
 }
 ```
 Um exemplo de arquivo foi providenciado neste repositório, portanto é possível usar como base. A string contendo um número de telefone **deve** começar com "55".
+
+Edite **script.py** e substitua os valores das constantes "__BASE_URL__" e "__API_KEY__" com a URL e chave definidas pelo seu servidor.
 
 ### 6. Usage
 Execute o script:
